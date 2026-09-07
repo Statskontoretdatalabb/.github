@@ -1,2 +1,0 @@
-# Statskontoretdatalabb
-Our Github README
